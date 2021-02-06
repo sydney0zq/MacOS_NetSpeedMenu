@@ -9,3 +9,6 @@ Use at your own risk.
 ## Screenshot
 
 ![](./screenshot.png)
+
+
+Forked from https://github.com/elegracer/NetSpeedMonitor.
